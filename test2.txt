@@ -2,5 +2,8 @@ Primera Línea
 
 Un cambio.
 un cambio desde master
+<<<<<<< HEAD
 
 Otro cambio desde master en github
+=======
+>>>>>>> rama-1
